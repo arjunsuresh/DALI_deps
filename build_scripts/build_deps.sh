@@ -44,7 +44,6 @@ PACKAGE_LIST=(
     "libjpeg-turbo"
     "zstd"
     "openjpeg"
-    "libtiff"
     "opencv"
     "ffmpeg"
     "libflac"
